@@ -1,0 +1,29 @@
+[Project]
+Project=HC-ICE
+[File Count]
+Count=3
+[Project Files]
+File0=HC18P013.INC
+File1=MAIN.ASM
+File2=REG.INC
+[Settings]
+Device=HC18P010S
+ConfigBitValue0=1
+ConfigBitValue1=64
+ConfigBitValue2=247
+Output=.
+PostBuild=0
+PostBuildCommand=
+[Files]
+File0=MAIN.ASM|3 0 928 0 445
+OpenFileCounts=3
+File1=C:\USERS\ADMINISTRATOR\DESKTOP\SOLAR\013\REG.INC|1 26 848 26 466
+File2=C:\USERS\ADMINISTRATOR\DESKTOP\SOLAR\013\HC18P013.INC|1 52 874 52 492
+[Break]
+Count=0
+[Watch0]
+Count=0
+[Watch1]
+Count=0
+[Watch2]
+Count=0
